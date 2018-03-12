@@ -26,5 +26,4 @@ def main
   end
 puts "Obrigado por jogar ;)"
 end
-
-main()
+main

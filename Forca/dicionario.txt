@@ -1,11 +1,27 @@
-programador
-code smell
-ruby
-ruby on rails
-python
-django
-ruan
-linux
-desenvolvedor 
-refatorar
-aprendrer ruby 
+Acre
+Alagoas
+Amapá
+Amazonas
+Bahia
+Ceará
+Distrito
+Espírito
+Goiás
+Maranhão
+Mato
+Mato
+Minas
+Pará
+Paraíba
+Paraná
+Pernambuco
+Piauí
+Rio
+Rio
+Rio
+Rondônia
+Roraima
+Santa
+São
+Sergipe
+Tocantins
